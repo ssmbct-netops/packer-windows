@@ -1,6 +1,8 @@
 # Windows Templates for Packer
 
-[![Build status](https://ci.appveyor.com/api/projects/status/76pea1oexae5ca05?svg=true)](https://ci.appveyor.com/project/StefanScherer/packer-windows)
+[![Build status](https://ci.appveyor.com/api/projects/status/7qprkog3vi888odi?svg=true)]
+(https://ci.appveyor.com/project/ssmbct-netops/packer-windows)
+
 
 ### Introduction
 
